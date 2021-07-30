@@ -1,0 +1,44 @@
+require_relative '../node_modules/react-native/scripts/react_native_pods'
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+
+platform :ios, '10.0'
+
+target 'servatafarinan' do
+  config = use_native_modules!
+
+
+  use_native_modules!
+
+  pod 'RNAppTour', :path => '../node_modules/react-native-app-tour/ios'
+
+  use_frameworks! :linkage => :static
+
+  pod 'MaterialShowcase', :git => 'https://github.com/aromajoin/material-showcase-ios', :tag => '0.7.1'
+
+  use_react_native!(:path => config["reactNativePath"])
+
+  pod 'react-native-orientation', :path => '../node_modules/react-native-orientation'
+
+  target 'servatafarinanTests' do
+    inherit! :complete
+    # Pods for testing
+  end
+
+  # Enables Flipper.
+  #
+  # Note that if you have use_frameworks! enabled, Flipper will not work and
+  # you should disable these next few lines.
+  #use_flipper!
+  #post_install do |installer|
+   # flipper_post_install(installer)
+  #end
+end
+
+target 'servatafarinan-tvOS' do
+  # Pods for servatafarinan-tvOS
+
+  target 'servatafarinan-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+end

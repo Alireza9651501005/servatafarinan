@@ -1,0 +1,6 @@
+framework module Pods_servatafarinan {
+  umbrella header "Pods-servatafarinan-umbrella.h"
+
+  export *
+  module * { export * }
+}

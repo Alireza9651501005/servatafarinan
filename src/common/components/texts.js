@@ -1,0 +1,1 @@
+export const ProfilePageForGuestUserText='برای پیوستن به ما و استفاده از دوره های آموزشی ابتدا وارد شوید!'

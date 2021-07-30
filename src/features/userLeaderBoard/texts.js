@@ -1,0 +1,6 @@
+export const headerText='لیدر بورد'
+export const yearlyText='سالانه'
+export const monthlyText='ماهانه'
+export const rewardText='هدایا'
+export const monthlyEnText='monthly'
+export const yearlyEnText='yearly'

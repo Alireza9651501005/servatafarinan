@@ -1,0 +1,153 @@
+{
+    "content_rows" : [
+        {
+            "type" : "banner",
+            "height" : 220,
+            "items" : [
+                {
+                    "image" : "https://campustechnology.com/-/media/EDU/CampusTechnology/2019-Images/20191209online.jpg",
+                    "color" : "#008888",
+                    "action" : {
+                        "id" : 0,
+                        "type" : "new-topic",
+                        "api" : "http://mocky.myfreenet.ir/r/v1/hadi/ServatAfarinan/more",
+                        "title" : "عنوان"
+                    }
+                },
+                {
+                    "image" : "https://artsci.nmsu.edu/wp-content/uploads/2020/03/online-course-development-process-must-know-outsource.jpeg",
+                    "color" : "#008888",
+                    "action" : {
+                        "id" : 0,
+                        "type" : "new-topic",
+                        "api" : "http://mocky.myfreenet.ir/r/v1/hadi/ServatAfarinan/more",
+                        "title" : "عنوان"
+                    }
+                }
+            ]
+        },
+        {
+            "type" : "item-list",
+            "item_layout" : "issue",
+            "title" : "عنوان",
+            "button_title" : "دکمه عنوان",
+            "button_action" : {
+                "item_layout" : "issue",
+                "list_type" : "most-visited",
+                "id" : 0,
+                "type" : "item-list",
+                "api" : "http://mocky.myfreenet.ir/r/v1/hadi/ServatAfarinan/more",
+                "api_method" : "GET",
+                "title" : "عنوان"
+            },
+            "items" : [
+                {
+                    "image" : "https://campustechnology.com/-/media/EDU/CampusTechnology/2019-Images/20191209online.jpg",
+                    "color" : "#008888",
+                    "action" : {
+                        "id" : 0,
+                        "type" : "new-topic",
+                        "api" : "http://mocky.myfreenet.ir/r/v1/hadi/ServatAfarinan/more",
+                        "title" : "عنوان"
+                    }
+                },
+                {
+                    "image" : "https://campustechnology.com/-/media/EDU/CampusTechnology/2019-Images/20191209online.jpg",
+                    "color" : "#008888",
+                    "action" : {
+                        "id" : 0,
+                        "type" : "new-topic",
+                        "api" : "http://mocky.myfreenet.ir/r/v1/hadi/ServatAfarinan/more",
+                        "title" : "عنوان"
+                    }
+                }
+            ]
+        },
+        {
+            "type" : "item-list",
+            "item_layout" : "issue",
+            "title" : "عنوان",
+            "button_title" : "دکمه عنوان",
+            "button_action" : {
+                "item_layout" : "issue",
+                "list_type" : "most-rate",
+                "id" : 0,
+                "type" : "item-list",
+                "api" : "http://mocky.myfreenet.ir/r/v1/hadi/ServatAfarinan/more",
+                "api_method" : "GET",
+                "title" : "عنوان"
+            },
+            "items" : [
+                {
+                    "image" : "https://campustechnology.com/-/media/EDU/CampusTechnology/2019-Images/20191209online.jpg",
+                    "color" : "#008888",
+                    "action" : {
+                        "id" : 0,
+                        "type" : "new-topic",
+                        "api" : "http://mocky.myfreenet.ir/r/v1/hadi/ServatAfarinan/more",
+                        "title" : "عنوان"
+                    }
+                },
+                {
+                    "image" : "https://campustechnology.com/-/media/EDU/CampusTechnology/2019-Images/20191209online.jpg",
+                    "color" : "#008888",
+                    "action" : {
+                        "id" : 0,
+                        "type" : "new-topic",
+                        "api" : "http://mocky.myfreenet.ir/r/v1/hadi/ServatAfarinan/more",
+                        "title" : "عنوان"
+                    }
+                }
+            ]
+        },
+        {
+            "type" : "banner",
+            "height" : 220,
+            "items" : [
+                {
+                    "image" : "https://artsci.nmsu.edu/wp-content/uploads/2020/03/online-course-development-process-must-know-outsource.jpeg",
+                    "color" : "#008888",
+                    "action" : {
+                        "id" : 0,
+                        "type" : "new-topic",
+                        "api" : "http://mocky.myfreenet.ir/r/v1/hadi/ServatAfarinan/more",
+                        "title" : "عنوان"
+                    }
+                }
+            ]
+        },
+        {
+            "type" : "item-list",
+            "item_layout" : "category",
+            "title" : "عنوان",
+            "button_title" : "دکمه عنوان",
+            "button_action" : {
+                "id" : 0,
+                "type" : "category-list",
+                "api" : "http://mocky.myfreenet.ir/r/v1/hadi/ServatAfarinan/more"
+            },
+            "items" :[
+                {
+                    "image" : "https://campustechnology.com/-/media/EDU/CampusTechnology/2019-Images/20191209online.jpg",
+                    "color" : "#008888",
+                    "action" : {
+                        "id" : 0,
+                        "type" : "new-topic",
+                        "api" : "http://mocky.myfreenet.ir/r/v1/hadi/ServatAfarinan/more",
+                        "title" : "عنوان"
+                    }
+                },
+                {
+                    "image" : "https://campustechnology.com/-/media/EDU/CampusTechnology/2019-Images/20191209online.jpg",
+                    "color" : "#008888",
+                    "action" : {
+                        "id" : 0,
+                        "type" : "new-topic",
+                        "api" : "http://mocky.myfreenet.ir/r/v1/hadi/ServatAfarinan/more",
+                        "title" : "عنوان"
+                    }
+                }
+            ]
+        }
+    ]
+}

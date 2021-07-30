@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h3>this is a bridge betweem app and webView </h3>
+    <h1></h1>
+    <button 
+    onclick="sendMessageToReactNative()" 
+    style="width:100%">this is a bridge betweem app and webView 
+</button>
+    <script>
+        function sendMessageToReactNative(params) {
+            window.ReactNativeWebView.postMessage('\' \"\\&?/');
+        }
+        (function(){
+           var body=document.getElementsByTagName('BODY')[0];
+           document.addEventListener('message',function name(msg) {
+               var color =msg.data;
+               alert(color)
+            body.style.backgroundColor = color;
+           })
+        })()
+    </script>
+</body>
+</html>

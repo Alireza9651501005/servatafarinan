@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58432772783",
+    "project_id": "servatafarinan-a734f",
+    "storage_bucket": "servatafarinan-a734f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58432772783:android:05819ff9ef216b0d88125a",
+        "android_client_info": {
+          "package_name": "com.servatafarinan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58432772783-71von2sv48ihrboavnp93lda5pdak7bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMLWwDSXXelEIiKF3wuZr_ufpe5k1uSHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58432772783-71von2sv48ihrboavnp93lda5pdak7bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

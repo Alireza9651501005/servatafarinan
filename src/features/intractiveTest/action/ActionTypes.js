@@ -1,0 +1,3 @@
+export const SEND_INTERACTIVE_RESULT_PENDING= 'send_interactive_result_pending'
+export const SEND_INTERACTIVE_RESULT_SUCCESS = 'send_interactive_result_success'
+export const SEND_INTERACTIVE_RESULT_ERROR = 'send_interactive_result_error';

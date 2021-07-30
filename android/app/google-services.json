@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581447637189",
+    "project_id": "pms-sample",
+    "storage_bucket": "pms-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581447637189:android:586dc364eaa2bfabccb8ac",
+        "android_client_info": {
+          "package_name": "com.servatafarinan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581447637189-e27keov47bo65urmta1dvphuann035o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcjLhHAu9z0Rmqtl82DdBQN3uC9Mwin_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581447637189-e27keov47bo65urmta1dvphuann035o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

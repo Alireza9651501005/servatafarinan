@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="servatafarinan/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/685342280/react-native-app-tour.iml" filepath="$PROJECT_DIR$/.idea/modules/685342280/react-native-app-tour.iml" group="servatafarinan/react-native-app-tour" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1642640048/react-native-background-downloader.iml" filepath="$PROJECT_DIR$/.idea/modules/1642640048/react-native-background-downloader.iml" group="servatafarinan/react-native-background-downloader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-236561167/react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/-236561167/react-native-community_art.iml" group="servatafarinan/react-native-community_art" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2100709832/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-2100709832/react-native-community_async-storage.iml" group="servatafarinan/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/50283317/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/50283317/react-native-community_masked-view.iml" group="servatafarinan/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1019794599/react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1019794599/react-native-community_netinfo.iml" group="servatafarinan/react-native-community_netinfo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1100984641/react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/1100984641/react-native-device-info.iml" group="servatafarinan/react-native-device-info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/440461567/react-native-file-viewer.iml" filepath="$PROJECT_DIR$/.idea/modules/440461567/react-native-file-viewer.iml" group="servatafarinan/react-native-file-viewer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/373322405/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/373322405/react-native-firebase_app.iml" group="servatafarinan/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-564021347/react-native-firebase_crashlytics.iml" filepath="$PROJECT_DIR$/.idea/modules/-564021347/react-native-firebase_crashlytics.iml" group="servatafarinan/react-native-firebase_crashlytics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/20738440/react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/20738440/react-native-firebase_messaging.iml" group="servatafarinan/react-native-firebase_messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-481227119/react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/-481227119/react-native-fs.iml" group="servatafarinan/react-native-fs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/84706114/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/84706114/react-native-gesture-handler.iml" group="servatafarinan/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1713589109/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1713589109/react-native-image-crop-picker.iml" group="servatafarinan/react-native-image-crop-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/704657236/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/704657236/react-native-linear-gradient.iml" group="servatafarinan/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1844936268/react-native-orientation.iml" filepath="$PROJECT_DIR$/.idea/modules/1844936268/react-native-orientation.iml" group="servatafarinan/react-native-orientation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-545698246/react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-545698246/react-native-push-notification.iml" group="servatafarinan/react-native-push-notification" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1809868390/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1809868390/react-native-reanimated.iml" group="servatafarinan/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/449565483/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/449565483/react-native-safe-area-context.iml" group="servatafarinan/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1169023741/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1169023741/react-native-screens.iml" group="servatafarinan/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-302293413/react-native-share.iml" filepath="$PROJECT_DIR$/.idea/modules/-302293413/react-native-share.iml" group="servatafarinan/react-native-share" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1138372443/react-native-simple-shadow-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1138372443/react-native-simple-shadow-view.iml" group="servatafarinan/react-native-simple-shadow-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1634359760/react-native-spinkit.iml" filepath="$PROJECT_DIR$/.idea/modules/1634359760/react-native-spinkit.iml" group="servatafarinan/react-native-spinkit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2028162784/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/2028162784/react-native-svg.iml" group="servatafarinan/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1424479276/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1424479276/react-native-vector-icons.iml" group="servatafarinan/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2114371751/react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/2114371751/react-native-video.iml" group="servatafarinan/react-native-video" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1910081163/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1910081163/react-native-webview.iml" group="servatafarinan/react-native-webview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/688894118/react-native-wheel-picker-android.iml" filepath="$PROJECT_DIR$/.idea/modules/688894118/react-native-wheel-picker-android.iml" group="servatafarinan/react-native-wheel-picker-android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1197575453/rn-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/1197575453/rn-fetch-blob.iml" group="servatafarinan/rn-fetch-blob" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servatafarinan.iml" filepath="$PROJECT_DIR$/.idea/modules/servatafarinan.iml" group="servatafarinan" />
+    </modules>
+  </component>
+</project>
